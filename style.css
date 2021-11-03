@@ -1,6 +1,7 @@
 body {
 	text-align: center;
-	font-family: Arial;
+	margin-right: 200px;
+	margin-left: 200px;
 	/*background-image: url(Imagens/code.jpg);
 	background-size: cover;*/
 	background-color: #f0e5d8;
@@ -10,13 +11,16 @@ body {
 
 
 h1{
-	font-size: 70px;
-	padding-top: 10%;
+	
+	font-family: Indie Flower;
+	font-size: 52px;
+	padding-top: 2%;
 	text-shadow: 2px 2px 5px black;
 	margin-bottom: 15px;
 }
 
 p {
+	font-family: Arial;
 	font-size: 25px;
 }
 
